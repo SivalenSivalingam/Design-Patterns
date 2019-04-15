@@ -1,0 +1,11 @@
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.deps.json
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.json
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.dev.json
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfo.cs
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\sivalen.sivalingham\Source\Learning\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\sivalen.sivalingham\Source\Learning\TemplatePattern\obj\Debug\TemplateMethodPattern.pdb

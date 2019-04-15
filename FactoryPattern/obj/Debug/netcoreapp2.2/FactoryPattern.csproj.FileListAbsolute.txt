@@ -1,0 +1,11 @@
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.deps.json
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.json
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.dev.json
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfo.cs
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Users\sivalen.sivalingham\Source\Learning\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.pdb

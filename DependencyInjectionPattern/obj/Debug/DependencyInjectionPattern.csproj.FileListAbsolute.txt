@@ -1,0 +1,7 @@
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\bin\Debug\DependencyInjectionPattern.exe.config
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\bin\Debug\DependencyInjectionPattern.exe
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\bin\Debug\DependencyInjectionPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\obj\Debug\DependencyInjectionPattern.csprojAssemblyReference.cache
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\obj\Debug\DependencyInjectionPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\obj\Debug\DependencyInjectionPattern.exe
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\obj\Debug\DependencyInjectionPattern.pdb

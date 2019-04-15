@@ -1,0 +1,13 @@
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\sivalen.sivalingham\Source\Repos\DependencyInjectionPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\sivalen.sivalingham\Source\Learning\StrategyPattern\obj\Debug\StrategyPattern.pdb
