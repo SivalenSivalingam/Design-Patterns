@@ -1,8 +1,7 @@
-# Design-Patterns
+# Gang of Four Design Patterns
 
-C# Design Patterns Example Code
+# <b>Creational Design Patterns</b>
 
-<b>Creational Design Patterns</b>
 These patterns deal with the process of objects creation in such a way that they can be decoupled from their implementing system. This provides more flexibility in deciding which objects need to be created for a given use case/ scenario. There are as follows:
 
 Factory Method : Create instances of derived classes
@@ -15,7 +14,8 @@ Prototype : Create a duplicate object or clone of the object
 
 Singleton : Ensures that a class can has only one instance
 
-<b>Structural Design Patterns</b>
+# <b>Structural Design Patterns</b>
+
 These patterns deal with the composition of objects structures. The concept of inheritance is used to compose interfaces and define various ways to compose objects for obtaining new functionalities. There are as follows:
 
 Adapter : Match interfaces of different classes
@@ -32,7 +32,7 @@ Flyweight : Minimize memory usage by sharing as much data as possible with simil
 
 Proxy : Provides a surrogate object, which references to other object
 
-<b>Behavioral Design Patterns</b>
+# <b>Behavioral Design Patterns</b>
 
 These patterns deal with the process of communication, managing relationships, and responsibilities between objects. There are as follows:
 
